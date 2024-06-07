@@ -47,7 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div align="center">
-  ![DevKing's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDev320&custom_title=TopDev320's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   <picture>
     <source
       media="(prefers-color-scheme: dark)"

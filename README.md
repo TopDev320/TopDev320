@@ -48,6 +48,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-topdev-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+  ![DevKing's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDev320&custom_title=TopDev320's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -62,13 +63,6 @@
       src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
-<div align="center">
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopDev320&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TopDev320&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TopDev320&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
   <div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TopDev320&show_icons=true&theme=transparent)
@@ -78,7 +72,13 @@
     </a>
   </p>
   </div>
+<div align="center">
 
-  ![DevKing's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDev320&custom_title=TopDev320's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopDev320&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TopDev320&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TopDev320&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
+
   
 </div>
